@@ -10,7 +10,8 @@ This repository _is not_ the original repository for this tool.Here are some lin
 
 In this repository, for POMMADE you will find:
 * :x: Source code (not available)
-* :white_check_mark: <a href="https://sites.google.com/site/songfu1983/pommade#Download"> Executable tool (available).</a>
+* :x: Executable tool (not available)
+* :x: Virtual machine containing tool (not available)
 
 The Tool requires a commercial tool named IDA Pro.
 The Tool was developed by Mr.Fu Song and Mr.Tayssir Touili.
